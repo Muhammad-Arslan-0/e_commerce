@@ -1,0 +1,32 @@
+{
+  "home": "Accueil",
+  "favorites": "Favoris",
+  "cart": "Panier",
+  "notification": "Notification",
+  "settings": "Paramètres",
+  "the_basic_tree": "L'Arbre Basique",
+  "the_advance_skirt": "La Jupe Avancée",
+  "the_max_tree": "L'Arbre Maximum",
+  "fashion_shirts": "Chemises de Mode",
+  "choose_your_size": "Choisissez Votre Taille",
+  "reviews": "avis",
+  "add_to_cart": "Ajouter au panier",
+  "added_to_cart": "Ajouté au panier",
+  "buy_now": "Acheter maintenant",
+  "no_product_in_favorite": "Aucun produit en favori pour l'instant !",
+  "no_product_in_cart": "Aucun produit dans le panier pour l'instant !",
+  "purchase_now": "Acheter maintenant",
+  "purchased_successfully": "Produit acheté avec succès",
+  "total": "Total",
+  "new_notification_received": "Nouvelle notification reçue",
+  "your_cart_waiting_for_checkout": "Votre panier attend d'être vérifié",
+  "dark_mode": "Mode sombre",
+  "language": "Langue",
+  "help": "Aide",
+  "sign_out": "Déconnexion",
+  "account": "Compte"
+}
+
+
+
+
